@@ -1,30 +1,58 @@
-﻿Key,Id,English(en)
-"ancile_N",122533494784,"Ancile Shield"
-"ancile_D",5445172379648,"The true sacred shield of the twelve. On <color=#00e4ff>juggle</color> provides a {chance}% chance to spawn a <color=#00e4ff>shield guard</color>."
-"brokenPiggyBank_N",5510016319488,"Broken Piggy Bank"
-"brokenPiggyBank_D",5659492925440,"Least it still looks cute."
-"gjallarhorn_N",5761183825920,"Gjallarhorn"
-"gjallarhorn_D",5906252218368,"Trumpets roar of the vikings. On {requiredCount} <color=#00e4ff>juggles</color> releasing a barrage of projectiles which dealing {damage.amount} damage per hit over {duration} seconds."
-"grimrArrow_N",5991698579456,"Grimr's Arrow"
-"grimrArrow_D",6071369383936,"An arrow gifted to his son.  Passive increase to {baseAtkSpeed}% <color=#00e4ff>attack speed</color>, {basePlayerStats.critChance}% critical chance, and {basePlayerStats.luck} luck."
-"holyWater_N",6429063823360,"Holy Water"
-"holyWater_D",6711579557888,"Burn demons on hit chance."
-"mineralOil_N",6970481360896,"Mineral Oil"
-"mineralOil_D",7063439720448,"An oil to hasten one's weapons.  Passive increase to {baseAtkSpeed}% <color=#00e4ff>attack speed</color>."
-"piggyBank_N",7223913791488,"Piggy Bank"
-"piggyBank_D",7281652580352,"A child's cute piggy bank.  Double your motes of light  till you loose some."
-"pillerOfSalt_N",7429526962176,"Pillar of Salt"
-"pillerOfSalt_D",7506333057024,"A reminder to never look back. <color=#00e4ff>Enemy death</color> has a {chance}% chance to shoot out 2 rays of light which deal {damage.amount} damage to every enemy it passes through ."
-"prayerBeads_N",7583952846848,"Prayer Beads"
-"prayerBeads_D",7646666080256,"Simple prayer beads. {chance}% chance on <color=#00e4ff>juggle</color> to spawn a new ball."
-"totemOfSmite_N",7795140247552,"Totem of Smite.  "
-"totemOfSmite_D",7835229405184,"A small memento of faith. Passive increase to {baseDamage}% damage boost, {basePlayerStats.critChance}% critical chance, and {basePlayerStats.nimbusesDamageBoost} disk damage."
-"YorimasaHeartPeice_N",18762989355008,"Yorimasa Heart Peice"
-"YorimasaHeartPeice_D",18801908301824,"A peice of the dragon slayer's heart.  On wave completion if no disks have been lost, and there are {requiredCount} or more active disks gain 1 additional max hit point and destroy all active disks."
-"ThreadOfFirmament_N",19706921664512,"Thread of Firmament"
-"ThreadOfFirmament_D",19731290570752,"A spool of thread weaved with angelic fibers. Passive increase to {basePlayerStats.luck} luck."
-"BitumenCharm_N",20484239441920,"Bitumen Charm"
-"BitumenCharm_D",20511221399552,"A bauble made of Bitumen. Passive increase to {basePlayerStats.luck} luck and {basePlayerStats.dodge} dodge."
+﻿Key,Id,Chinese (Simplified)(zh-Hans),English(en),French(fr),German(de),Japanese(ja),Portuguese (Brazil)(pt-BR),Russian(ru),Spanish(es)
+"Relics",2702935726276608,,"RELICS",,,,,,
+"heal",2702961638686720,,"HEAL",,,,,,
+"Exit",4126486975004672,,"EXIT",,,,,,
+"reroll",4144988691677184,,"REROLL",,,,,,
+"Store",4145124952031232,,"STORE",,,,,,
+"Light",4724268928647168,,"GAIN LIGHT",,,,,,
+"event",4724347525709824,,"EVENT",,,,,,
+"shrine",4724399312781312,,"SHRINE",,,,,,
+"Play",19207868776497152,,"PLAY",,,,,,
+"Unlocks",19207896005918720,,"UNLOCKS",,,,,,
+"Credits",19207945444179968,,"CREDITS","test","test",,,"test",
+"Settings",19208195185623040,,"SETTINGS",,,,,,
+"NightFall",19208197542821888,,"NIGHTFALL",,,,,,
+"Twillight",19208369681252352,,"TWILIGHT",,,,,,
+"Dawn",19208493354500096,,"DAWN",,,,,,
+"Continue",25314132740849664,,"Continue",,,,,,
+"Victory",25348011220582400,,"VICTORY",,,,,,
+"GameOver",25348048860266496,,"GAME OVER",,,,,,
+"TotalDisksLaunched",25349711062941696,,"Total Disks Launched:",,,,,,
+"TotalDisksLost",25349758756372480,,"Total Disks Lost:",,,,,,
+"Total Juggles",25349830088900608,,"Total Juggles:",,,,,,
+"HighestJuggle",25349931368759296,,"Highest Juggle:",,,,,,
+"DiskDamage",25350073123651584,,"Disk Damage:",,,,,,
+"DiskKills",25350113695154176,,"Disk Kills:",,,,,,
+"QUIT",25430620772548608,,"QUIT",,,,,,
+"GameArt",25435458231123968,,"Art:",,,,,,
+"Programing",25435519690260480,,"Programing:",,,,,,
+"CoverArt",25435571963871232,,"Cover Art:",,,,,,
+"Music",25436111208759296,,"Music:",,,,,,
+"MainMenuMusic",25436174576304128,,"Menu Music:",,,,,,
+"SoundEffects",25436404831010816,,"Sound FX:",,,,,,
+"UPGRADE",34773199242706944,,"UPGRADE",,,,,,
+"MasterVolume",34773242561478656,,"Master Volume:",,,,,,
+"MusicVolume",37351272991473664,,"Music Volume:",,,,,,
+"Sound Effects",37351375475097600,,"SFX Volume:",,,,,,
+"Display",37351464604057600,,"Display:",,,,,,
+"MENU",40202456022433792,,"MENU",,,,,,
+"RESUME",40202479644753920,,"RESUME",,,,,,
+"WISHLIST",42845793808334848,,"WISHLIST ON STEAM",,,,,,
+"CHOOSEREWARD",43141243270643712,,"CHOOSE YOUR REWARD",,,,,,
+"PESTILENCE",47444472674435072,,"PESTILENCE",,,,,,
+"LUST",47444557898498048,,"LUST",,,,,,
+"VIOLENCE",47444586071638016,,"VIOLENCE",,,,,,
+"Demo_D",47444611099049984,,"Thanks for playing the demo.  Continue your escape from hell in the full game.  Thats it for now!",,,,,,
+"AttackSpeed",49625893388206080,,"Attack
+Speed",,,,,,
+"DamageBoost",49626010799357952,,"Damage
+Boost",,,,,,
+"DiskDamag",49626070530441216,,"Disk 
+Damage",,,,,,
+"Luck",49626137547030528,,"Luck",,,,,,
+"Dodge",49626164096974848,,"Dodge",,,,,,
+"criticalChance",49626276940529664,,"Critical
+Chance",,,,,, dodge."
 "SoilOfNisur_N",21597919428608,"Soil of Nisur. "
 "SoilOfNisur_D",21645109542912,"Early soil untouched by water. Passive increase to {basePlayerStats.critChance} critical chance and {basePlayerStats.dodge} dodge."
 "DictionnaireInfernal_N",23329860796416,"Dictionnaire Infernal"
